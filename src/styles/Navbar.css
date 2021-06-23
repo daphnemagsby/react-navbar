@@ -6,3 +6,14 @@
 	align-items: center;
 	font-size: 1.2rem;
 }
+
+.navbar-logo{
+	color: #fff;
+	margin-left: 20px;
+	cursor: pointer;
+}
+
+.fa-react{
+	margin-left: 0.5rem;
+	font-size: 1.6rem;
+}
