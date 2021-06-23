@@ -17,10 +17,6 @@ export const MenuItems = [
 	{title: 'Contact',
 	 href: '#',
 	 className: 'nav-links'
-	},
-
-	{title: 'Sign Up',
-	 href: '#',
-	 className: 'nav-links-mobile'
 	}
+
 ]
